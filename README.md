@@ -7,4 +7,4 @@ This project was built from scratch using HTML and pure CSS as part of the ***Th
 
 Background image was _not_ made by me.
 
-Check it out [here](https://nsellars98.github.io/startup-of-the-year/).
+Check it out [here](#).
